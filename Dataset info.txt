@@ -1,0 +1,5 @@
+Kaggle Notebook
+https://www.kaggle.com/code/whiteasian/pneumonia-detection-using-cnn
+
+Dataset
+https://www.kaggle.com/datasets/ismailsiddiqui011/pneumonia-dataset
